@@ -68,7 +68,7 @@ Create a command line interface where the user can enter a number or a range of 
 ```
 Welcome to SuperFizzBuzz! Enter a number or a range...
 
-# => 15
+# => 105
 SuperFizzBuzz
 
 #=> 8, 15
