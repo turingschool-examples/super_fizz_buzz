@@ -69,8 +69,8 @@ Create a command line interface where the user can enter a number or a range of 
 Welcome to SuperFizzBuzz! Enter a number or a range...
 
 # => 15
-SuperFizzBuzz
+"FizzBuzz"
 
 #=> 8, 15
-8, Fizz, Buzz, 11, Fizz, 13, Super, FizzBuzz
+["8", "Fizz", "Buzz", "11", "Fizz", "13", "Super", "FizzBuzz"]
 ```
